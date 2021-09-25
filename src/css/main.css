@@ -67,14 +67,6 @@
   justify-items: center;
 }
 
-.reports_title{
-  text-align: center;
-}
-
-.reports_docs{
-  background-color: #23272A;
-}
-
 @media only screen and (max-width: 768px) {
   .reports {
     display: grid;
